@@ -1,0 +1,11 @@
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\services\IFlorService.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\exceptions\FlorNoData.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\exceptions\FlorNotFoundException.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\services\FlorServices.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\dto\FlorDTO.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\entityDomain\Flor.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\S05T01N02FaraNataliaApplication.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\exceptions\FlorNotListFoundException.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\controllers\FlorControllers.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\controllers\GlobalControllerExceptionHandler.java
+C:\Users\NATALIA\S5.T1\S5.01.N2_API_RestCRUD_MySQL\S05T01N02FaraNatalia\S05T01N02FaraNatalia\src\main\java\cat\itacademy\barcelonactiva\fara\natalia\s05\t01\n02\models\repository\IFlorRepository.java
